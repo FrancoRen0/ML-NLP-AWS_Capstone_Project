@@ -15,7 +15,7 @@ main topics and entities from a dataset of 46 ML course videos.
 ## Technologies
 - Jupyter Notebook (Python 3.12, conda)
 - Pandas, NumPy, NLTK (lemmatization)
-- Amazon S3, Amazon SageMaker
+- Amazon S3, Amazon SageMaker AI
 - Amazon Transcribe, Amazon Comprehend
 - Amazon OpenSearch Service + OpenSearch Dashboards
 
